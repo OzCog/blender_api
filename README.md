@@ -33,7 +33,7 @@ blender -y Sophia.blend -P autostart.py
 
 Sophia can be controlled via buttons in the blender GUI (note the panel
 on the right).  A HOWTO guide for manipulating via ROS can be found in
-the [Sophia cookbook](https://github.com/hansonrobotics/blender_api_msgs/blob/master/cookbook.md)
+the [Sophia cookbook](https://github.com/opencog/blender_api_msgs/blob/master/cookbook.md)
 
 ## Newer versions of Blender
 The rig does not work with newer versionf of Blender. There have been
